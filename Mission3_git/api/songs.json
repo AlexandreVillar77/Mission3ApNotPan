@@ -1,0 +1,22 @@
+{
+    "songs": [
+        {
+            "titre": "dont you want me",
+            "auteur": "Psyqui",
+            "genre": "jpop",
+            "id": "1"
+        },
+        {
+            "titre": "call of silence",
+            "auteur": "SNK",
+            "genre": "chill",
+            "id": "2"
+        },
+        {
+            "titre": "aliez",
+            "auteur": "sawano",
+            "genre": "rock",
+            "id": "3"
+        }
+    ]
+}

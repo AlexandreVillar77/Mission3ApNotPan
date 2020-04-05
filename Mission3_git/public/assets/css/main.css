@@ -1,0 +1,75 @@
+
+li a.link{
+	display: inline-block;
+}
+
+.page-link{
+	display: center;
+
+}
+
+div.btn {
+	width: auto;
+	margin: auto;
+	text-align: center;
+}
+
+.tchong{
+	display: inline-block;
+	
+	justify-content: center;
+}
+
+.spaceright {
+	margin-right: 10px;
+}
+
+.spaceleft {
+	margin-left: 10px;
+}
+
+
+.tchong2 {
+	margin-right: 10px;
+}
+
+.formdate {
+	display: inline-block;
+	text-align: center;
+	margin: auto
+}
+
+.form-control {
+	display: inline-block;
+	text-align: center
+}
+
+.form{
+	display: inline-block;
+	text-align: center
+}
+
+header {
+	text-align: center;
+	margin: auto;
+	justify-content : center
+}
+
+.film {
+	width: 400px;
+	height: 600px;
+	margin-bottom: 30px;
+	width: 90%;
+}
+
+.filmliste{
+	display: inline-block;
+	align-items: center;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.titrefilm {
+	margin-top: 15px;
+}
+
